@@ -74,8 +74,8 @@ console.log(fill);
 
 //nama jadi nama panggilan  soal 3
 
-let Name = "kafi";
-let result = Name.replace("kafi", "AA jedayyy");
+let Name = "rafi";
+let result = Name.replace("rafi", "AA jedayyy");
 console.log(result);
 
 
@@ -129,7 +129,7 @@ console.log(pilih);
 
 //soal 10
 
-const nama = ['Rafi', 'Rafi', 'Rafi', 'Rafi', 'Romli', 'Alfi','Rafi', 'rafi']
+const nama = ['Rafi', 'Rafi', 'Rafi', 'Rafi', 'Rafi', 'Alfi','Rafi', 'rafi']
 const milih = nama.filter(huruf);
 function huruf(nama) {
   return nama == "Rafi"
