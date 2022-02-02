@@ -19,7 +19,7 @@ countUniqueValues([])
 function nama(arr) {
     console.log(arr.join(" "))
 }
-nama(['kafi','khoerul'])
+nama(['rafi','abdurrahman'])
 
 // boolean
 function boolean ( nomor, pembanding ) {
